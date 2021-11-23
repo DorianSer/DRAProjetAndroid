@@ -5,6 +5,17 @@ Un menu basique avec liste Android en Kotlin.
 C'est une démonstation simple, utilisant 3 menu et une liste en kotlin, il a été créé à partir du template ```basic activity``` de android studio.
 
 Table of content 
+* [Getting Started](#getting-started)
+* [Prérequis](#prérequis)
+* [Installation](#installation)
+* [Dependencies](#dependencies)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [Conventions de nommage](#conventions-de-nommage)
+* [Acknowledgements](#acknowledgements)
+* [Licence](#licence)
+<!-- * [License](#license) -->
 
 ## Getting Started
 
@@ -30,8 +41,8 @@ Commit your Changes ```(git commit -m 'Add some AmazingFeature')```
 Push to the Branch ```(git push origin feature/AmazingFeature)```
 Open a Pull Request
 
-##Conventions de nommage
+## Conventions de nommage
 Les conventions de nommage Android [ici](https://gitlab.com/chillcoding-at-the-beach/kotlin-for-android/-/wikis/Naming-Convention)
 
-##Licence
+## Licence
 Distributed under the GNU General Public License v3.0. See [LICENSE]() for more information (cf. [Choose an open source license](https://choosealicense.com/)).
