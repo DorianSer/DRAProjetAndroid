@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabbed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pizza">pizza</string>
+    <string name="burger">burger</string>
+    <string name="pate">pate</string>
+    <string name="frite">frite</string>
+</resources>
