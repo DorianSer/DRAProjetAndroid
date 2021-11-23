@@ -30,8 +30,14 @@ Requiert l'installation de [Android Studio](https://developer.android.com/studio
 2.Choisissez ouvrir un projet existant sur Android Studio
 
 ## Dependencies
+Aucune
+
 ## Usage
+Use this space to show beautiful User Interface elements.
+
 ## Roadmap
+Voir la page [Issues](https://github.com/DorianSer/DRAProjetAndroid/issues) pour une liste de toute les fonctionnalitées proposées et des problèmes connus
+
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
