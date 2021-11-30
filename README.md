@@ -52,3 +52,4 @@ Les conventions de nommage Android [ici](https://gitlab.com/chillcoding-at-the-b
 
 ## Licence
 Distributed under the GNU General Public License v3.0. See [LICENSE]() for more information (cf. [Choose an open source license](https://choosealicense.com/)).
+ 
