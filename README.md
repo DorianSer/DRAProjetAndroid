@@ -4,6 +4,10 @@ Un menu basique avec liste Android en Kotlin.
 
 C'est une démonstation simple, utilisant 3 menu et une liste en kotlin, il a été créé à partir du template ```basic activity``` de android studio.
 
+L'appui sur un élément de la liste affiche un Toast.
+
+Nous pouvons nous déplacer entre les menu via un balayage a gauche ou à droite
+
 Table of content 
 * [Getting Started](#getting-started)
 * [Prérequis](#prérequis)
